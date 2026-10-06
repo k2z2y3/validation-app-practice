@@ -64,3 +64,30 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+# validation-app-practice
+
+## 概要
+
+COACHTECH 教材 Tutorial 9-6「バリデーション ハンズオン演習」で作成した成果物です。
+（**validationを活用した入力フォームを作成しました。**）
+
+## 使用技術
+
+- PHP 8.x
+- Laravel 10.x
+- FormRequest / バリデーションルール
+  （**他に使ったものがあれば追記してください**）
+
+## 学んだこと
+
+- フォーム画面の作成
+- 指示に応じたvalidationをコードで表現
+-
+-
+
+## 動作確認
+
+何も入力しないで
+登録ボタンを押すと
+エラーが出てくる
